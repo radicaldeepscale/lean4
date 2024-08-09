@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Metallica 
+
 
 # Script internal to `./script/rebase-stage0.sh`
 
